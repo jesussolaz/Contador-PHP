@@ -16,7 +16,7 @@ Sigue los pasos a continuación para instalar y configurar la aplicación:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/jesussolaz/contador/tree/main
+   git clone https://github.com/jesussolaz/Contador-PHP
    cd contador
    ```
 
