@@ -1,4 +1,4 @@
-# Contador PHP
+# Aplicación de Contador con PHP-GTK
 
 Una sencilla aplicación de escritorio para gestionar proyectos y tareas, desarrollada utilizando PHP-GTK.
 
@@ -16,8 +16,8 @@ Sigue los pasos a continuación para instalar y configurar la aplicación:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/jesussolaz/contador/tree/main
+   cd contador
    ```
 
 2. **Asegúrate de que PHP-GTK está instalado**:
@@ -40,7 +40,7 @@ Sigue los pasos para ejecutar la aplicación:
 
 1. **Navega al directorio del proyecto**:
    ```bash
-   cd tu-repositorio
+   cd contador
    ```
 
 2. **Ejecuta el script con PHP**:
